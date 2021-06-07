@@ -1,18 +1,18 @@
 # Google Cloud Companion
 
-**GCP**
+**Cloud Companion on Google Cloud Platform**
 ![](GCP_[10fps_small].gif)
 
 <br>
 <br>
 <br>
 
-**Google Workspace**
+**Cloud Comapnion on Google Workspace**
 ![](WS_[10fps_small].gif)
 
 <br>
 <br>
 <br>
 
-**Documentation Portals**
+**Cloud Companion in Documentation Portals**
 ![](Unu_[10fps].gif)
