@@ -1,8 +1,12 @@
 # Google
 
 **GCP**
-![](GCP_[10fps].gif)
+![](GCP_[10fps_small].gif)
 
 
 **Google Workspace**
-![](WS_2_[10fps].gif)
+![](GCP_[10fps_small].gif)
+
+
+**Unu**
+![](GCP_[10fps_small].gif)
