@@ -8,7 +8,7 @@
 <br>
 
 **Google Workspace**
-![](WS_2_[10fps].gif)
+![](WS_[10fps_small].gif)
 
 <br>
 <br>
