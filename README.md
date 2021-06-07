@@ -5,7 +5,7 @@
 
 
 **Google Workspace**
-![](GCP_[10fps_small].gif)
+![](WS_2_[10fps].gif)
 
 
 **Unu**
