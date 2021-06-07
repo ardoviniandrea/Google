@@ -1,7 +1,8 @@
 # Google
 
-GCP
+**GCP**
 ![](GCP_[10fps].gif)
 
 
-Google Workspace
+**Google Workspace**
+![](WS_2_[10fps].gif)
