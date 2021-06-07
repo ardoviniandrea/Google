@@ -1,4 +1,4 @@
-# Google
+# Google Cloud Companion
 
 **GCP**
 ![](GCP_[10fps_small].gif)
