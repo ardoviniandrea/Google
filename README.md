@@ -7,7 +7,7 @@
 <br>
 <br>
 
-**Cloud Comapnion on Google Workspace**
+**Cloud Companion on Google Workspace**
 ![](WS_[10fps_small].gif)
 
 <br>
