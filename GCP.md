@@ -1,3 +1,3 @@
 **Cloud Companion on Google Cloud Platform**
 
-![](GCP_[10fps_small].gif)
+![](GCP_2_24fps_720p.gif)
