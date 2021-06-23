@@ -1,3 +1,3 @@
 **Cloud Companion in Documentation Portals**
 
-![](Unu_[10fps].gif)
+![](Unu_updated_[10fps_720_compressed].gif)
