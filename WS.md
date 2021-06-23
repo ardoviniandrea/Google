@@ -1,3 +1,3 @@
 **Cloud Companion on Google Workspace**
 
-![](WS_[10fps_small].gif)
+![](WS_3_24fps_720p.gif)
